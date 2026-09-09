@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=Welcome+to+My+GitHub+Profile" />
 </div>
 
-# 💧 Kourosh Sarhadi (He/Him), MSc &nbsp;![Followers](https://img.shields.io/github/followers/Kourosh-Sarhadi?label=Followers&style=social) ![Profile Views](https://komarev.com/ghpvc/?username=Kourosh-Sarhadi&color=blue&label=Profile%20Views)
+# 💧 Kourosh Sarhadi (He/Him), M.Sc. &nbsp;![Followers](https://img.shields.io/github/followers/Kourosh-Sarhadi?label=Followers&style=social) ![Profile Views](https://komarev.com/ghpvc/?username=Kourosh-Sarhadi&color=blue&label=Profile%20Views)
 
 **Water Resources Engineer | Technical Office Supervisor @ Moujab Consulting Engineers Co.**
 
