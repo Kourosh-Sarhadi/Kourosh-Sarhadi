@@ -73,12 +73,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-4CAF50?style=for-the-badge&logo=qgis&logoColor=white)
 
-![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Currently Learning](https://img.shields.io/badge/Currently%20Learning-Machine%20Learning%20%26%20Scikit--Learn-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
