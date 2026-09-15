@@ -85,7 +85,7 @@
 
 ## 📬 Let's Connect
 
-🌍 I'd love to hear from anyone working on **AI × water resources**, whether it's a research idea, a dataset, a paper, or just a good conversation about reservoirs and neural networks. I'm always eager to exchange knowledge and learn more in this field, so don't hesitate to reach out!
+🌍 I'd love to hear from anyone working on **AI × water resources**, whether it's a research idea, a dataset, a paper, or just a good conversation. I'm always eager to exchange knowledge and learn more in this field, so don't hesitate to reach out!
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Kourosh_Sarhadi) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kourosh-sarhadi) &nbsp;
